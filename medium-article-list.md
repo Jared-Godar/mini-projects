@@ -136,7 +136,7 @@ Top Technologies that implement Graph-like Models
 
 ![graph2](images/graph2.jpeg)
 
-## Conclusion
+## Conclusion2
 
 - There is no one-size-fits-all solution:
   - Use document databases for use cases where data comes in self-contained documents and relationships between one document and another are rare.
