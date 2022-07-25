@@ -150,3 +150,8 @@ Top Technologies that implement Graph-like Models
 ![map](images/map.jpeg)
 
 ---
+
+## [Manage your Money with Python](https://towardsdatascience.com/manage-your-money-with-python-707579202203)
+
+A Step-by-Step Guide to put you in control of your finances
+
