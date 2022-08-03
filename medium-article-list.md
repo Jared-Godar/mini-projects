@@ -157,3 +157,56 @@ A Step-by-Step Guide to put you in control of your finances
 
 ---
 
+## [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
+
+---
+
+## [MacOS apps](https://medium.com/illumination/ten-mac-apps-i-will-always-treasure-23b8ffdeaae7)
+
+- [ ] Pock
+- [ ] Swish
+- [ ] 
+
+---
+
+## [Finally going paperless](https://medium.com/@johannesfritsch/finally-going-paperless-ee1043c0539b)
+
+- Raspberry Pi scan manager
+- Harddrive (S3?)
+
+---
+
+## [I Tried Tony Robbins’ Epic Morning Routine… Now I’m Hooked](https://chloegarnham.medium.com/i-tried-tony-robbins-epic-morning-routine-now-i-m-hooked-6f6376fada5d)
+
+---
+
+## [The Cure for Burnout According to Nobel Laureate Richard Feynman: Play More](https://entrylevelrebel.medium.com/the-cure-for-burnout-according-to-nobel-laureate-richard-feynman-play-more-d444f14fa40c)
+
+---
+
+## [What I Learned After Working on 1000+ SQL Coding Problems (1)](https://medium.com/@h.hulu/what-i-learned-after-working-on-1000-sql-coding-problems-1-d17e9bc9ed93)
+
+---
+
+## 7 [Python One-Liners that will Blow Your Mind](https://towardsdatascience.com/7-python-one-liners-that-will-blow-your-mind-479d5b2ab93a)
+
+---
+
+## [Four of the Best Software Books to Read](https://medium.com/@pencihub/four-of-the-best-software-books-to-read-9b4d6f75bee9)
+
+1. The Structure and Interpretation of Computer Programs - Gerald Jay, and Julie Sussman
+2. Modern Operating Systems by Donald Knuth
+3. The Gang of Four’s Design Patterns
+4. The Pragmatic Programmer is a great resource. Developed by Andrew Hunt
+
+---
+
+## [Advanced Python: Dataclasses
+](https://levelup.gitconnected.com/advanced-python-dataclasses-6a1e53bc4d8d)
+
+---
+
+## [XGBoost (Extreme Gradient Boosting) in Machine Learning](https://medium.com/@jwbtmf/xgboost-extreme-gradient-boosting-in-machine-learning-3427b937b35c)
+
+--- 
+
