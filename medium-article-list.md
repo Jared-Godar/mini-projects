@@ -208,5 +208,25 @@ A Step-by-Step Guide to put you in control of your finances
 
 ## [XGBoost (Extreme Gradient Boosting) in Machine Learning](https://medium.com/@jwbtmf/xgboost-extreme-gradient-boosting-in-machine-learning-3427b937b35c)
 
---- 
+----
+
+## [Whip up a stunning Dashboard with Python & Streamlit!](https://medium.com/@ascoolarobban/whip-up-a-stunning-dashboard-with-python-streamlit-c9dd8c224367)
+
+---
+
+## [PRegEx: Write Human-Readable Regular Expressions in Python](https://towardsdatascience.com/pregex-write-human-readable-regular-expressions-in-python-9c87d1b1335)
+
+---
+
+## [4 Amazing Data Science Tools for 2022](https://medium.com/@jawadkr111/4-awesome-data-science-tools-for-2022-e3224025ba8c)
+
+---
+
+## [Introduction to Object Oriented Programming in Python](https://code.likeagirl.io/introduction-to-object-oriented-programming-in-python-607a5711e541)
+
+---
+## [7 Useful Python Libraries You Should Use in Your Next Project](https://python.plainenglish.io/7-useful-python-libraries-you-should-use-in-your-next-project-177ab91014fc)
+
+---
+]
 
