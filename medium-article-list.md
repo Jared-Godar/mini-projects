@@ -228,5 +228,5 @@ A Step-by-Step Guide to put you in control of your finances
 ## [7 Useful Python Libraries You Should Use in Your Next Project](https://python.plainenglish.io/7-useful-python-libraries-you-should-use-in-your-next-project-177ab91014fc)
 
 ---
-]
 
+### []
