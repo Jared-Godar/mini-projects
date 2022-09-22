@@ -229,4 +229,13 @@ A Step-by-Step Guide to put you in control of your finances
 
 ---
 
-### []
+### [A simple guide to SQLite in Python.](https://towardsdatascience.com/yes-python-has-a-built-in-database-heres-how-to-use-it-b3c033f172d3)
+
+---
+
+### Terminal (MAC)
+
+- [Fish](https://fishshell.com/)
+- [Tide](https://github.com/IlanCosman/tide)
+- [nerd fonts](https://github.com/ryanoasis/nerd-fonts)
+- 
