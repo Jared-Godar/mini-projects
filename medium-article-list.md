@@ -238,4 +238,7 @@ A Step-by-Step Guide to put you in control of your finances
 - [Fish](https://fishshell.com/)
 - [Tide](https://github.com/IlanCosman/tide)
 - [nerd fonts](https://github.com/ryanoasis/nerd-fonts)
-- 
+
+---
+
+### []
